@@ -1,2 +1,0 @@
-# InstagramHackTools
- BruteForceAttack
