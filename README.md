@@ -3,7 +3,7 @@
 <br>
 
 
-[![Watch the video](https://raw.githubusercontent.com/mrlarkowis/InstagramHackTools/master/screen.PNG)](https://www.instagram.com/mrlarkowis/)
+(https://raw.githubusercontent.com/mrlarkowis/InstagramHackTools/master/screen.PNG)](https://www.instagram.com/mrlarkowis/)
 <br>
 
 <br>
