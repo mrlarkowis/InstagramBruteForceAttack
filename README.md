@@ -4,7 +4,7 @@
 ## Getting Started
 1. ```git clone https://github.com/mrlarkowis/InstagramBruteForceAttack.git```
 2. ```cd InstagramBruteForceAttack```
-3. ```python instabrute.py -h ```
+3. ```python3 instagram.py ```
 
 - very fast!
 - work with proxylist
