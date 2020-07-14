@@ -74,7 +74,7 @@ class InstaBrute(object):
                    | | | '_ \/ __| __/ _` |  _ <| '__| | | | __/ _ |
                   _| |_| | | \__ \ || (_| | |_) | |  | |_| | ||  __/
                  |_____|_| |_|___/\__\__,_|____/|_|   \__,_|\__\___|
-                  GitHub.com/@mrlarkowis   This is Turkey.Net                                                 
+                    GitHub.com/mrlarkowis            This is Turkey                                                 
                     
             Note! : We don't Accept any responsibility for any illegal usage.       
     """
