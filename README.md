@@ -1,10 +1,9 @@
-# Instagram Account Cracker
 # Instagram Brute Force Attack
 # Author/Edits: @mrlarkowis
 
 ## Getting Started
-1. ```git clone https://github.com/mrlarkowis/InstagramHackTools.git```
-2. ```cd InstagramHackTools```
+1. ```git clone https://github.com/mrlarkowis/InstagramBruteForceAttack.git```
+2. ```cd InstagramBruteForceAttack```
 3. ```python instabrute.py -h ```
 
 - very fast!
