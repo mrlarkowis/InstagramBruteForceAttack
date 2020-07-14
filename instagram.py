@@ -67,16 +67,16 @@ class InstaBrute(object):
         colors = [36, 32, 34, 35, 31, 37]
 
         x = """
-                            White Hat hacker @mrlarkowis
-                  _____           _        ____             _
-                 |_   _|         | |      |  _ \           | |
-                   | |  _ __  ___| |_ __ _| |_) |_ __ _   _| |_ ___
+                     White Hat hacker MR.LARKOWİS
+                  _____           _        ____             _       
+                 |_   _|         | |      |  _ \           | |      
+                   | |  _ __  ___| |_ __ _| |_) |_ __ _   _| |_ ___ 
                    | | | '_ \/ __| __/ _` |  _ <| '__| | | | __/ _ |
                   _| |_| | | \__ \ || (_| | |_) | |  | |_| | ||  __/
                  |_____|_| |_|___/\__\__,_|____/|_|   \__,_|\__\___|
-                    GitHub.com/mrlakowis              This is Turkey                                                 
-
-            Note! : We don't Accept any responsibility for any illegal usage.
+                  GitHub.com/@mrlarkowis   This is Turkey.Net                                                 
+                    
+            Note! : We don't Accept any responsibility for any illegal usage.       
     """
         for N, line in enumerate(x.split("\n")):
             sys.stdout.write("\x1b[1;%dm%s%s\n" % (random.choice(colors), line, clear))
